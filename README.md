@@ -12,6 +12,7 @@
 		<a href="https://www.npmjs.com/package/@carbon/charts">
 			<img src="https://img.shields.io/npm/v/@carbon/charts.svg" />
 		</a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Ftheiliad%2Fcarbon-charts?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftheiliad%2Fcarbon-charts.svg?type=shield"/></a>
 		<img src="https://img.shields.io/badge/comp-IE11%2B-blue.svg" />
 	</p>
 	<p align="center">
@@ -184,3 +185,7 @@ Get updates on Charts' development and chat with the core team and community. --
 We use the **semantic-release** library to automatically version our releases within the guidelines of Semantic Versioning [Semantic Versioning guidelines](http://semver.org/).
 
 See our [releases notes](https://github.com/IBM/carbon-charts/releases) for the changelog of each version of Charts.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftheiliad%2Fcarbon-charts.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftheiliad%2Fcarbon-charts?ref=badge_large)
